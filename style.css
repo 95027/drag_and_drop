@@ -1,0 +1,19 @@
+div
+{
+    float: left;
+    height: 250px;
+    width: 250px;
+    background-color:beige;
+    margin: 20px;
+    border: 2px solid black;
+}
+img
+{
+    display: flex;
+    margin: auto;
+    margin-top: 60px;
+}
+.invisible
+{
+    display: none;
+}
